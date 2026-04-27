@@ -1,6 +1,6 @@
 [Unit]
-Description=dexter service
-Documentation=http://mediatekvpn.com
+Description=dxplusdev service
+Documentation= dxplusdev@gmail.com
 
 [Service]
 Type=oneshot
